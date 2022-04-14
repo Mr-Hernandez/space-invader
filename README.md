@@ -7,4 +7,4 @@ it was more of an exercise to use SFML and learn some OOP concepts.
 
 The game is just squares and such.
 
-(!)[The Game in Action](/assets/images/space-invader.png "Space-Invader")
+(!)[The Game in Action](https://github.com/Mr-Hernandez/space-invader/blob/main/assets/images/space-invader.PNG?raw=true "Space-Invader")
