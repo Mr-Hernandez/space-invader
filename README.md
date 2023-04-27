@@ -18,6 +18,7 @@ To build do the following.
 3. Run the command ```./space-invader-exe```
 
 # Dependencies
-SFML 2.5
-Linux Env (maybe I ran it on windows using WSL2)
-cmake 3.1 or greater (just use this to build)
+SFML 2.5  
+Linux Env (maybe I ran it on windows using WSL2)  
+cmake 3.1 or greater (just use this to build)  
+
